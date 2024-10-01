@@ -55,7 +55,7 @@ O projeto tem como foco ilustrar a aplicação de Edge Computing em um ambiente 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/PCD-CodeX/Edge-Computing/blob/main/FIWARE%20Descomplicado.postman_collection.json
    ```
 
 2. **Configurar o Docker**:
